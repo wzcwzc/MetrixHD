@@ -131,36 +131,36 @@
 		<color name="unffffff" value="#00ffffff" />
 	</colors>
 	<fonts>
-		<font filename="/usr/share/fonts/lcd.ttf" name="LCD" scale="100" />
-		<font filename="/usr/share/fonts/ae_AlMateen.ttf" name="Replacement" scale="100" replacement="1" />
-		<font filename="/usr/share/fonts/tuxtxt.ttf" name="Console" scale="100" />
-		<font filename="/usr/share/fonts/andale.ttf" name="Fixed" scale="100" />
-		<font filename="/usr/share/fonts/nmsbd.ttf" name="Arial" scale="100" />
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/OpenSans-Regular.ttf" name="Regular" scale="95" />
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/OpenSans-Regular.ttf" name="RegularLight" scale="95" />
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/setrixHD.ttf" name="SetrixHD" scale="100" />
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/meteocons.ttf" name="Meteo" scale="100" />
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="LCD" scale="100" />
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="Replacement" scale="100" replacement="1" />
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="Console" scale="100" />
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="Fixed" scale="100" />
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="Arial" scale="100" />
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="Regular" scale="95" />
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="RegularLight" scale="95" />
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="SetrixHD" scale="100" />
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="Meteo" scale="100" />
 <!-- for individual skinned screens -->
 	<!-- global -->
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/setrixHD.ttf" name="global_title" scale="100" />				<!--Screen or window title-->
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/setrixHD.ttf" name="global_button" scale="90" />				<!--Button text-->
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/setrixHD.ttf" name="global_clock" scale="100" />				<!--Clock text-->
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/setrixHD.ttf" name="global_large" scale="100" />				<!--Text in background or large text-->
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/setrixHD.ttf" name="global_large_screen" scale="100" />		<!--Text in background or large text-->
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/setrixHD.ttf" name="global_large_menu" scale="100" />			<!--Text in background or large text-->
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/OpenSans-Regular.ttf" name="global_small" scale="95" />		<!--Small text in Infobar, Screens ...-->
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/setrixHD.ttf" name="global_menu" scale="100" />				<!--Menu items-->
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="global_title" scale="100" />				<!--Screen or window title-->
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="global_button" scale="90" />				<!--Button text-->
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="global_clock" scale="100" />				<!--Clock text-->
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="global_large" scale="100" />				<!--Text in background or large text-->
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="global_large_screen" scale="100" />		<!--Text in background or large text-->
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="global_large_menu" scale="100" />			<!--Text in background or large text-->
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="global_small" scale="95" />		<!--Small text in Infobar, Screens ...-->
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="global_menu" scale="100" />				<!--Menu items-->
 	<!-- screens, plugins -->
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/OpenSans-Regular.ttf" name="screen_label" scale="95" />		<!--Label Name-->
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/OpenSans-Regular.ttf" name="screen_text" scale="95" />		<!--Output Text-->
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/setrixHD.ttf" name="screen_info" scale="100" />				<!--Info or Description-->
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="screen_label" scale="95" />		<!--Label Name-->
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="screen_text" scale="95" />		<!--Output Text-->
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="screen_info" scale="100" />				<!--Info or Description-->
 	<!-- epg, channellist, movielist -->
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/OpenSans-Regular.ttf" name="epg_event" scale="95" />			<!--Event/Service Name-->
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/OpenSans-Regular.ttf" name="epg_text" scale="95" />			<!--Other Text-->
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/OpenSans-Regular.ttf" name="epg_info" scale="95" />			<!--Info or Description-->
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="epg_event" scale="95" />			<!--Event/Service Name-->
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="epg_text" scale="95" />			<!--Other Text-->
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="epg_info" scale="95" />			<!--Info or Description-->
 	<!-- infobar, movieplayer -->
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/setrixHD.ttf" name="infobar_event" scale="100" />				<!--Event/Service Name-->
-		<font filename="/usr/share/enigma2/MetrixHD/fonts/OpenSans-Regular.ttf" name="infobar_text" scale="95" />		<!--Other Text-->
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="infobar_event" scale="100" />				<!--Event/Service Name-->
+		<font filename="/usr/share/enigma2/MetrixHD/fonts/msyh.ttf" name="infobar_text" scale="95" />		<!--Other Text-->
 	<!-- aliases -->
 		<alias name="Body" font="screen_text" size="20" height="30" />
 		<alias name="ChoiceList" font="screen_text" size="20" height="30" />
